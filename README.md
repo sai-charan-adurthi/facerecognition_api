@@ -1,1 +1,1 @@
-# Smart Brain APP API
+# Smart Brain API
